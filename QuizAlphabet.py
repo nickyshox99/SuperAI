@@ -8,3 +8,4 @@ def countnamewithalphabet(alphabet):
     return count
 
 print(str(countnamewithalphabet('n')))
+print(str(countnamewithalphabet('i')))
